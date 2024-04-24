@@ -2,7 +2,9 @@
 
 
 
+
 System Zarządzania Biblioteką
+
 Projekt ten jest kompletnym systemem do zarządzania biblioteką, umożliwiającym efektywne zarządzanie kolekcją książek, rejestrację czytelników, śledzenie wypożyczeń i zwrotów, a także generowanie statystyk dotyczących aktywności biblioteki.
 
 Funkcje
