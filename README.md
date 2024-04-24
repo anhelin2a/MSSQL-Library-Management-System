@@ -18,3 +18,5 @@ Statystyki i Raporty: Generowanie raportów dotyczących trendów wypożyczeń o
 Projekt Bazy Danych
 
 System wykorzystuje relacyjną bazę danych z kilkoma tabelami reprezentującymi kluczowe elementy biblioteki, w tym książki, czytelników, biblioteki, autorów i kategorie. Klucze obce zapewniają integralność danych.
+
+![library](https://github.com/anhelin2a/MSSQL-Library-Management-System/assets/123561929/1d01d9a2-88db-44b4-9b46-93c230e04b07)
